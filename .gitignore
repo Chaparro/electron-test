@@ -1,0 +1,4 @@
+package-lock.json
+*.db
+qr_codes/
+node_modules/
